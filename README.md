@@ -29,9 +29,7 @@ _.replace <a href='https://plnkr.co/edit/l48e3l?p=preview' target='_blank'>demo<
 
 4. Lodash.js functions demo
 
-|  :link:  <a href='https://plnkr.co/edit/zRDlc9?p=info' target='_blank'>_.debounce</a>
-|  :link:  <a href='' target='_blank'></a>
-|  :link:  <a href='' target='_blank'></a>
+|  :link:  <a href='https://plnkr.co/edit/zRDlc9?p=info' target='_blank'>_.debounce</a>  |  :link:  <a href='https://plnkr.co/edit/iUEnSG?p=info' target='_blank'>_.delay</a>  |  :link:  <a href='https://plnkr.co/edit/WXtZyo?p=info' target='_blank'>_.bindKey</a>  |  :link:  <a href='https://plnkr.co/edit/yXYmJG?p=info' target='_blank'>_.bind</a>  |  :link:  <a href='https://plnkr.co/edit/tX4Yzv?p=info' target='_blank'>_.before</a>  |  :link:  <a href='https://plnkr.co/edit/Q0tBH4?p=info' target='_blank'>_.ary</a>  |  :link:  <a href='https://plnkr.co/edit/iLSpM1?p=info' target='_blank'>_.after</a>  |  :link:  <a href='https://plnkr.co/edit/DYEvjm?p=info' target='_blank'>_.memoize</a>  |  :link:  <a href='https://plnkr.co/edit/LXGyTR?p=info' target='_blank'>_.defer</a>  |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
@@ -39,8 +37,13 @@ _.replace <a href='https://plnkr.co/edit/l48e3l?p=preview' target='_blank'>demo<
 
 5. Lodash.js lang functions demo
 
-|  :link:  <a href='https://plnkr.co/edit/3lLAOQ?p=info' target='_blank'>_.clone</a>
-|  :link:  <a href='https://plnkr.co/edit/QDPRZ7?p=info' target='_blank'>_.castArray</a>
+|  :link:  <a href='https://plnkr.co/edit/3lLAOQ?p=info' target='_blank'>_.clone</a>  |  :link:  <a href='https://plnkr.co/edit/QDPRZ7?p=info' target='_blank'>_.castArray</a>  |  :link:  <a href='https://plnkr.co/edit/D31LVT?p=info' target='_blank'>_.isArguments</a>  |  :link:  <a href='https://plnkr.co/edit/A2XdlR?p=info' target='_blank'>_.eq</a>  |  :link:  <a href='https://plnkr.co/edit/P3ezr5?p=info' target='_blank'>_.gt</a>  |  :link:  <a href='https://plnkr.co/edit/pd1sqe?p=info' target='_blank'>_.isArrayBuffer</a>  |  :link:  <a href='https://plnkr.co/edit/LUTfHT?p=info' target='_blank'>_.isArrayLikeObject</a>  |  :link:  <a href='https://plnkr.co/edit/VeyEUR?p=info' target='_blank'>_.isArrayLike</a>  |  :link:  <a href='https://plnkr.co/edit/LDMiZi?p=info' target='_blank'>_.conformsTo</a>  |  :link:  <a href='https://plnkr.co/edit/3klbfM?p=info' target='_blank'>_.isArray</a>  |  :link:  <a href='https://plnkr.co/edit/upgUbl?p=info' target='_blank'>_.cloneDeep</a>
+|  :link:  <a href='' target='_blank'></a>
+
+5. Regular expression demo
+
+|  :link:  <a href='https://plnkr.co/edit/cU8DaJ?p=info' target='_blank'>Word boundary</a>
+
 |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
