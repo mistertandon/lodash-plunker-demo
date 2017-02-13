@@ -4,8 +4,13 @@
 
 |  :link:  <a href='https://plnkr.co/edit/l48e3l?p=preview' target='_blank'>_.replace</a>  |  :link:  <a href='https://plnkr.co/edit/EDmchY?p=info' target='_blank'>_.defaults</a>  |  :link:  <a href='https://plnkr.co/edit/1ehTzI?p=info' target='_blank'>_.create</a>  |  :link:  <a href='https://plnkr.co/edit/Spo20L?p=info' target='_blank'>_.assignWith</a>  |  :link:  <a href='https://plnkr.co/edit/8Txmm1?p=info' target='_blank'>_.assign</a>  |  :link:  <a href='https://plnkr.co/edit/gs8Kn3?p=info' target='_blank'>_.assignInWith</a>  |  :link:  <a href='https://plnkr.co/edit/844IyU?p=info' target='_blank'>_.assignIn</a>  |  :link:  <a href='https://plnkr.co/edit/b8Fc1w?p=info' target='_blank'>_.forOwnRight</a>  |  :link:  <a href='https://plnkr.co/edit/sKSnEc?p=info' target='_blank'>_.forOwn</a>  |  :link:  <a href='https://plnkr.co/edit/a81P82?p=info' target='_blank'>_.forInRight</a>  |  :link:  <a href='https://plnkr.co/edit/GELPgo?p=info' target='_blank'>_.findLastKey</a>  |  :link:  <a href='https://plnkr.co/edit/CgHcEm?p=info' target='_blank'>_.forIn</a>  |  :link:  <a href='https://plnkr.co/edit/kJSWQr?p=info' target='_blank'>_.findKey</a>  |  :link:  <a href='https://plnkr.co/edit/AqMjf5?p=info' target='_blank'>_.defaultsDeep</a>  |  :link:  <a href='https://plnkr.co/edit/VtGMSS?p=info' target='_blank'>_.toPairsIn</a>  |  :link:  <a href='https://plnkr.co/edit/nn88g4?p=info' target='_blank'>_.toPairs</a>  |  :link:  <a href='https://plnkr.co/edit/IwhruX?p=info' target='_blank'>_.keysIn</a>  |  :link:  <a href='https://plnkr.co/edit/qtrXrR?p=info' target='_blank'>_.keys</a>  |  :link:  <a href='https://plnkr.co/edit/qmgeCD?p=info' target='_blank'>_.invoke</a>  |  :link:  <a href='https://plnkr.co/edit/qftAQu?p=info' target='_blank'>_.invertBy</a>  |  :link:  <a href='https://plnkr.co/edit/fitYwu?p=info' target='_blank'>_.invert</a>  |  :link:  <a href='https://plnkr.co/edit/pXIIsA?p=info' target='_blank'>_.hasIn</a>  |  :link:  <a href='https://plnkr.co/edit/gc2Cry?p=info' target='_blank'>_.functions</a>  |  :link:  <a href='https://plnkr.co/edit/ZDa3RS?p=info' target='_blank'>_.has</a>  |  :link:  <a href='https://plnkr.co/edit/NjpCf1?p=info' target='_blank'>_.functionsIn</a>
 |  :link:  <a href='https://plnkr.co/edit/CIrWmm?p=info' target='_blank'>_.set</a>  |  :link:  <a href='https://plnkr.co/edit/5juhE8?p=info' target='_blank'>_.result</a>  |  :link:  <a href='https://plnkr.co/edit/mNQRmP?p=info' target='_blank'>_.get</a>  |  :link:  <a href='https://plnkr.co/edit/uu11JL?p=info' target='_blank'>_.pickBy</a>  |  :link:  <a href='https://plnkr.co/edit/VZK0T6?p=info' target='_blank'>_.pick</a>  |  :link:  <a href='https://plnkr.co/edit/QMM457?p=info' target='_blank'>_.omitBy</a>  |  :link:  <a href='https://plnkr.co/edit/wLdQYY?p=info' target='_blank'>_.omit</a>  |  :link:  <a href='https://plnkr.co/edit/rYwly4?p=info' target='_blank'>_.mapValues</a>  |  :link:  <a href='https://plnkr.co/edit/yPM7Zg?p=info' target='_blank'>_.mapkeys</a>
+|  :link:  <a href='https://plnkr.co/edit/0g3eIx?p=info' target='_blank'>_.valuesIn</a>
+|  :link:  <a href='https://plnkr.co/edit/TTtPFP?p=info' target='_blank'>_.values</a>
+|  :link:  <a href='https://plnkr.co/edit/Xcd5dp?p=info' target='_blank'>_.unset</a>
+|  :link:  <a href='https://plnkr.co/edit/9KIYqb?p=info' target='_blank'>_.setWith</a>
+|  :link:  <a href='https://plnkr.co/edit/ccmh15?p=info' target='_blank'>_.transform</a>
 |  :link:  <a href='' target='_blank'>demo</a>
-|  :link:  <a href='' target='_blank'>demo</a>
+
 
 2. Lodash.js Array function demo
 
@@ -45,7 +50,26 @@
 |  :link:  <a href='' target='_blank'></a>
 |  :link:  <a href='' target='_blank'></a>
 
-5. Regular expression demo
+5. Lodash.js string functions demo
+
+|  :link:  <a href='https://plnkr.co/edit/s8ZGwe?p=info' target='_blank'>_.escape</a>
+|  :link:  <a href='https://plnkr.co/edit/IFvWaE?p=info' target='_blank'>_.endsWith</a>
+|  :link:  <a href='https://plnkr.co/edit/sPEeOn?p=info' target='_blank'>_.capitalize</a>
+|  :link:  <a href='https://plnkr.co/edit/iEF93c?p=info' target='_blank'>_.camelCase</a>
+|  :link:  <a href='https://plnkr.co/edit/5iAdwX?p=info' target='_blank'>_.repeat</a>
+|  :link:  <a href='https://plnkr.co/edit/saQS3S?p=info' target='_blank'>_.parseInt</a>
+|  :link:  <a href='https://plnkr.co/edit/nsirk9?p=info' target='_blank'>_.padStart</a>
+|  :link:  <a href='https://plnkr.co/edit/6AiesT?p=info' target='_blank'>_.lowerFirst</a>
+|  :link:  <a href='https://plnkr.co/edit/ZBYtCF?p=info' target='_blank'>_.pad</a>
+|  :link:  <a href='https://plnkr.co/edit/XRv2y6?p=info' target='_blank'>_.padEnd</a>
+|  :link:  <a href='https://plnkr.co/edit/tnVHA5?p=info' target='_blank'>_.kebabCase</a>
+|  :link:  <a href='https://plnkr.co/edit/4UxPKJ?p=info' target='_blank'>_.lowerCase</a>
+|  :link:  <a href='https://plnkr.co/edit/8QA0sd?p=info' target='_blank'>_.escapeRegExp</a>
+|  :link:  <a href='' target='_blank'></a>
+|  :link:  <a href='' target='_blank'></a>
+|  :link:  <a href='' target='_blank'></a>
+
+6. Regular expression demo
 
 |  :link:  <a href='https://plnkr.co/edit/cU8DaJ?p=info' target='_blank'>Word boundary</a>
 
