@@ -6,7 +6,7 @@ _.replace <a href='https://plnkr.co/edit/l48e3l?p=preview' target='_blank'>demo<
 
 2. Lodash.js Array function demo
 
-_.drop <a href='https://plnkr.co/edit/wnmkM6?p=info' target='_blank'>demo</a>
+:heavy_check_mark: <a href='https://plnkr.co/edit/wnmkM6?p=info' target='_blank'>_.drop</a>
 _.fill <a href='https://plnkr.co/edit/aAn2Yo?p=info' target='_blank'>demo</a>
 _.differenceBy <a href='https://plnkr.co/edit/V59WyK?p=info' target='_blank'>demo</a>
 _.chunk <a href='https://plnkr.co/edit/3EOIZb?p=info' target='_blank'>demo</a>
