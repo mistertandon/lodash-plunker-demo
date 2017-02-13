@@ -6,7 +6,7 @@ _.replace <a href='https://plnkr.co/edit/l48e3l?p=preview' target='_blank'>demo<
 
 2. Lodash.js Array function demo
 
-:heavy_check_mark: <a href='https://plnkr.co/edit/wnmkM6?p=info' target='_blank'>_.drop</a>  |  :heavy_check_mark: <a href='https://plnkr.co/edit/aAn2Yo?p=info' target='_blank'>_.fill</a>  |  :heavy_check_mark: <a href='https://plnkr.co/edit/V59WyK?p=info' target='_blank'>_.differenceBy</a>
+:link: <a href='https://plnkr.co/edit/wnmkM6?p=info' target='_blank'>_.drop</a>  |  :link: <a href='https://plnkr.co/edit/aAn2Yo?p=info' target='_blank'>_.fill</a>  |  :heavy_check_mark: <a href='https://plnkr.co/edit/V59WyK?p=info' target='_blank'>_.differenceBy</a> 
 _.chunk <a href='https://plnkr.co/edit/3EOIZb?p=info' target='_blank'>demo</a>
 _.difference <a href='https://plnkr.co/edit/8y5glyHP9INLSKyIngqO?p=info' target='_blank'>demo</a>
 _.differenceBy <a href='https://plnkr.co/edit/V59WyK?p=info' target='_blank'>demo</a>
